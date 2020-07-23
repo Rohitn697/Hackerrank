@@ -8,6 +8,6 @@ I have created this repo for my fellow underclassmen and all those who are start
 
 These questions mainly comprise of basic STL , strings , search and sort , and basic DS algo.
 
-#MORE-POWER-TO-YOU #GodleoN's Repo. Happy Coding :)
+Happy Coding :)
 
 <a href="INDEX-1.html">Let's Start.</a>
